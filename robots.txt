@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-o2iaio.syndicatealpha.ai/sitemap.xml
